@@ -1,5 +1,4 @@
 # Kalkulator-waris
-Kalkulator 
 <!DOCTYPE html>
 <html lang="id">
 <head>
